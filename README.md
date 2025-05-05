@@ -2,6 +2,7 @@
 
 A Shiny dashboard for interactive exploration and analysis of global military expenditure data. The app provides dynamic visualizations and data summaries by country, region, and year, leveraging data from the Stockholm International Peace Research Institute (SIPRI).
 
+https://drpuru.shinyapps.io/Military_Spending_Dashboard/
 ---
 
 ## Overview
